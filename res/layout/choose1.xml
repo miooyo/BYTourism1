@@ -29,7 +29,7 @@
             android:background="@drawable/input_search"
             android:drawableLeft="@drawable/mirror"
             android:hint="@string/search_name" >
-        </EditText>
+        </EditText> 
 
         <ImageButton
             android:id="@+id/imagebutton2"
